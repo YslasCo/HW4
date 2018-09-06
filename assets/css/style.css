@@ -1,0 +1,15 @@
+body {
+    background-image: url(diagonal_striped_brick.png);
+}
+
+#centerNav{
+    text-align: center;
+    color: coral;
+    font-size: 40px;
+    font-family: 'Freckle Face'
+}
+
+#rules{
+    font-family: 'Monofett';
+    text-align: center;
+}
